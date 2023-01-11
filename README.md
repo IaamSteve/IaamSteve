@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IaamSteve
-- 👀 I’m interested in Python, JS, MYSQL.
+- 👀 I’m interested in Python, Web Developping.
 - 🌱 I’m currently learning all mentioned above and more
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me --> kerekespisti18@gmail.com 
